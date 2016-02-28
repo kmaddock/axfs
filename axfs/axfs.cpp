@@ -1,5 +1,6 @@
 // axfs.cpp : Defines the entry point for the console application.
 //
+// LICENSE: GPL v2.  This project is a derivative work of the linux kernel.
 
 #include "stdafx.h"
 
