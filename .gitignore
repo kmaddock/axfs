@@ -1,0 +1,8 @@
+.vs/*
+Debug/*
+*.sdf
+axfs/Debug/*
+axfs/x64/*
+*.VC.opendb
+x64/*
+ipch/*
